@@ -1,0 +1,19 @@
+tuples to check for winning scenarios
+8 winning scenarios
+
+3 levels of difficulty
+
+center -> 5
+corners -> 1, 3, 7, 9
+rest -> 2, 4, 6, 8
+
+Level #1 -> 	completely random selection of spot
+
+Level #2 -> 	goes for the win, but still random on the tiers (if X is put in the center by player, computer randomly
+		picks from the corners).
+		WIN PRECEDES BEING RANDOM
+		DOES NOT TRY TO BLOCK
+
+Level #3 -> 	Goes for the win
+		Try to block
+		Random based off tiers
