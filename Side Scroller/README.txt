@@ -1,0 +1,2 @@
+-pygame download for python2.7
+-Windows -> first download (1.9.1)
